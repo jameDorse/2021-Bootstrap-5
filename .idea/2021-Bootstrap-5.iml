@@ -10,5 +10,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="2021-Javascript-Study" />
     <orderEntry type="module" module-name="2021-Javascript-Test-Prep" />
+    <orderEntry type="module" module-name="2021_Javascript_Unit_Test" />
   </component>
 </module>
